@@ -1,0 +1,21 @@
+{
+  "name": "MCPE-Boss",
+  "version": "1.0.0",
+  "main": "node mybot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mybot.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3",
+    "ms": "^2.1.1"
+  }
+}
